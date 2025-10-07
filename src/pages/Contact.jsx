@@ -42,10 +42,10 @@ function Contact() {
     <div>
       <div className="flex flex-col md:flex-row gap-8 mb-12">
         <div className="md:w-2/3">
-          <h1 className="text-3xl font-bold mb-4">Contact Me</h1>
+          <h1 className="text-3xl font-bold mb-4">Contact Us</h1>
           <p className="text-lg mb-4">
             Have a question or want to discuss a potential project? Feel free to
-            reach out using the form below or through any of my social media
+            reach out using the form below or through any of our social media
             channels.
           </p>
         </div>
@@ -191,12 +191,12 @@ function Contact() {
                     href="mailto:contact@example.com"
                     className="text-blue-500 hover:underline"
                   >
-                    contact@example.com
+                    contact@amenushi.com
                   </a>
                 </li>
                 <li className="flex items-center">
                   <i className="bi bi-geo-alt mr-2"></i>
-                  UK
+                  United States
                 </li>
               </ul>
               <h5 className="text-xl font-semibold mt-6 mb-3">
@@ -228,7 +228,7 @@ function Contact() {
             <div className="p-6">
               <h5 className="text-xl font-semibold mb-3">Availability</h5>
               <p className="text-gray-700 mb-3">
-                I'm currently available for freelance work and consulting. My
+                We're currently available for freelance work and consulting. Our
                 typical response time is within 24 hours.
               </p>
               <p className="text-gray-700">

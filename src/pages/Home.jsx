@@ -9,16 +9,16 @@ function Home() {
     <div>
       <div className="flex flex-col md:flex-row gap-8 mb-12">
         <div className="md:w-1/3">
-          <h1 className="text-3xl font-bold mb-4">Welcome to my Portfolio</h1>
+          <h1 className="text-3xl font-bold mb-4">Welcome to Birbirr</h1>
           <p className="text-lg mb-4">
-            This portfolio showcases my work and skills with the help of
+            This website showcases our work and skills with the help of
             specialized AI agents. Each agent is designed to assist you with
-            different aspects of my portfolio.
+            different aspects of our website.
           </p>
           <p className="text-gray-700">
             Feel free to interact with the WelcomeAgent to get personalized
-            recommendations on which sections of the portfolio to explore based
-            on your interests.
+            recommendations on which sections of the website to explore based on
+            your interests.
           </p>
         </div>
         <div className="md:w-2/3">
@@ -51,7 +51,7 @@ function Home() {
               <div className="agent-avatar-placeholder mb-4">PA</div>
               <h5 className="text-xl font-semibold mb-2">ProjectAgent</h5>
               <p className="text-gray-600 mb-4 text-center">
-                Provides detailed information about my projects, technologies
+                Provides detailed information about our projects, technologies
                 used, and challenges overcome.
               </p>
               <Link
@@ -67,8 +67,8 @@ function Home() {
               <div className="agent-avatar-placeholder mb-4">CA</div>
               <h5 className="text-xl font-semibold mb-2">CareerAgent</h5>
               <p className="text-gray-600 mb-4 text-center">
-                Shares information about my skills, experience, and professional
-                background.
+                Shares information about our skills, experience, and
+                professional background.
               </p>
               <Link
                 to="/career"
@@ -102,7 +102,7 @@ function Home() {
           <div className="p-6">
             <h5 className="text-xl font-semibold mb-2">Featured Projects</h5>
             <p className="text-gray-600 mb-4">
-              Check out some of my recent work:
+              Check out some of our recent work:
             </p>
             <ul className="divide-y divide-gray-200">
               <li className="py-3 px-2">E-commerce Platform</li>
@@ -123,7 +123,7 @@ function Home() {
           <div className="p-6">
             <h5 className="text-xl font-semibold mb-2">Research & Insights</h5>
             <p className="text-gray-600 mb-4">
-              Explore my research on emerging technologies and industry trends:
+              Explore our research on emerging technologies and industry trends:
             </p>
             <ul className="divide-y divide-gray-200">
               <li className="py-3 px-2">AI in Web Development</li>

@@ -4,7 +4,7 @@ function Footer() {
       <div className="container">
         <div className="row">
           <div className="col-md-6">
-            <h5>Portfolio</h5>
+            <h5>Birbirr</h5>
             <p>Showcasing my work with the help of AI agents</p>
           </div>
           <div className="col-md-6 text-md-end">
@@ -19,7 +19,7 @@ function Footer() {
         <div className="row mt-3">
           <div className="col-12 text-center">
             <p className="mb-0">
-              &copy; {new Date().getFullYear()} Portfolio. All rights reserved.
+              &copy; {new Date().getFullYear()} Birbirr. All rights reserved.
             </p>
           </div>
         </div>
